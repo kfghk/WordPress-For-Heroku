@@ -66,5 +66,4 @@
     "addons": [
         "heroku-postgresql:hobby-dev"
     ]
-    "stack": "heroku-18"
-}
+   }
