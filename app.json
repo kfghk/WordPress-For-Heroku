@@ -1,8 +1,8 @@
 {
   "name": "WordPress on Heroku",
   "description": "在 Heroku 部署 Wordpress 5.9",
-  "repository": "https://github.com/mcxiaolan/WordPress-For-Heroku/tree/master",
-  "website": "https://github.com/mcxiaolan/WordPress-For-Heroku",
+  "repository": "https://github.com/kfghk/WordPress-For-Heroku/tree/master",
+  "website": "https://github.com/kfghk/WordPress-For-Heroku",
   "keywords": ["wordpress", "blog" ],
   "addons": [
     {
@@ -12,6 +12,6 @@
       }
     }
   ],
-  "logo":"https://cdn.jsdelivr.net/gh/mcxiaolan/jsdelivr/WordPress-Logo.png",
-  "stack": "heroku-20"
+  "logo":"https://cdn.jsdelivr.net/gh/kfghk/jsdelivr/WordPress-Logo.png",
+  "stack": "heroku-22"
 }
